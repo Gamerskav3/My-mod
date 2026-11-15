@@ -30,6 +30,7 @@ jobs:
         id: build
         with:
           combine: true
+          SDK: nightly
           target: ${{ matrix.config.target }}
 
   package:
