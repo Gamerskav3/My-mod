@@ -1,12 +1,12 @@
 {
-	"geode": "4.4.0",
+	"geode": "5.11.2",
 	"gd": {
 		"android": "2.2081"
 	},
 	"version": "v1.0.0",
-	"id": "yourname.hello-button",
+	"id": "gamerskav3.hello-button",
 	"name": "Hello Button",
-	"developer": "YourName",
+	"developer": "gamerskav3",
 	"description": "Adds a button to the main menu that opens a \"Hello!\" popup.",
 	"tags": ["interface", "joke"]
 }
