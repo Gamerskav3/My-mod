@@ -30,7 +30,7 @@ jobs:
         id: build
         with:
           combine: true
-          SDK: nightly
+          SDK: 5.11.2
           target: ${{ matrix.config.target }}
 
   package:
